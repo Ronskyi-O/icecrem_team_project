@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://gr18teamlead.github.io/icecream-project",
+  "homepage": "https://github.com/Ronskyi-O/icecrem_team_project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /icecream-project/"
+    "build": "parcel build src/*.html --public-url /icecrem_team_project/"
   },
   "repository": {
     "type": "git",
